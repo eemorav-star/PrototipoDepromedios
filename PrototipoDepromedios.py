@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="App de Promedios", page_icon="👍")
 
 # ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
-# PROYECTO : Calula pormedios en el sistema de educacion de Panama 
+# PROYECTO : Calcula pormedios en el sistema de educativo de Panama 
 # Creadores del proyecto: Adrian Luna , Kathia Jaen, Elpidio Mora
 # ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
@@ -11,7 +11,7 @@ st.set_page_config(page_title="App de Promedios", page_icon="👍")
 #ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 # ENTRADAS
 #ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
-st.title(" Programa para el calculo de promedios MEDUCA PANAMA")
+st.title(" Programa para el calculo de promedios en el sistema educativo de PANAMA")
 
 st.header(" Las notas van de 1.0 a 5.0")
 
