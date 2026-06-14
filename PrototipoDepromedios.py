@@ -11,7 +11,7 @@ st.set_page_config(page_title="App de Promedios", page_icon="👍")
 #ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 # ENTRADAS
 #ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
-st.title(" Programa para el calculo de promedios en el sistema escolar de PANAMA")
+st.title(" Programa para el calculo de promedios MEDUCA PANAMA")
 
 st.header(" Las notas van de 1.0 a 5.0")
 
